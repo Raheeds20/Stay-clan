@@ -752,3 +752,5 @@ footer{
     grid-column:2;
   }
 }
+
+.price small{font-size:.82rem;font-weight:800;letter-spacing:0;color:var(--text);}
